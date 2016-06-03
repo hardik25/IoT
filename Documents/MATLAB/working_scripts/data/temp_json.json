@@ -1,0 +1,8 @@
+{
+	"root": {
+		"SensorID": "S123",
+		"SensorName": "Sense123",
+		"Type": "temp",
+		"Value": "123.3"
+	}
+}

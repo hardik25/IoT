@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- Written on 03-Jun-2016 11:52:20 using the XML Toolbox for Matlab -->
+<root>
+  <root>
+    <SensorID>S123</SensorID>
+    <SensorName>Sense123</SensorName>
+    <Type>temp</Type>
+    <Value>123.3</Value>
+  </root>
+</root>
